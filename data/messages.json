@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "icon": "☀️",
+        "title": "30 Años Juntos",
+        "author": "De: Tu compañero de viaje",
+        "text": "Parece que fue ayer cuando empezamos nuestra historia hace ya 30 años, pero este 9 de junio de 2001 celebramos oficialmente nuestros 25 años de casados. Nuestras Bodas de Plata. Gracias por ser el corazón de este hogar y por caminar a mi lado en cada proyecto. Tu fuerza, tu alegría y la forma tan única en la que cuidas de nosotros son el motor que hace que todo funcione. Qué suerte la mía compartir mi vida con una mujer tan extraordinaria."
+    },
+    {
+        "id": 2,
+        "icon": "🌸",
+        "title": "Mi Mayor Ejemplo",
+        "author": "De: Tu hermana",
+        "text": "Mamá, gracias por ser siempre mi refugio seguro, mi confidente y mi mejor amiga. Admiro muchísimo tu fuerza interna, tu generosidad sin límites y esa capacidad tan hermosa que tienes de sanar cualquier preocupación mía con solo una mirada o uno de tus abrazos. Ojalá el día de mañana pueda ser una mujer tan increíble como lo eres tú."
+    },
+    {
+        "id": 3,
+        "icon": "🏠",
+        "title": "Mi Pilar Incondicional",
+        "author": "De: Tu hijo Oscar",
+        "text": "Gracias por creer en mí de forma incondicional en cada paso que doy, por apoyarme en cada meta que me propongo y por enseñarme el verdadero valor del esfuerzo con tu propio ejemplo diario. Saber que estás ahí me da la seguridad que necesito para comerme el mundo. Eres, y serás siempre, mi mayor orgullo."
+    }
+]
