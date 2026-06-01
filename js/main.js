@@ -32,7 +32,7 @@ const messagesData = [
         "id": 2,
         "icon": "🌸",
         "title": "Mi Mayor Ejemplo",
-        "author": "De: Tu hermana",
+        "author": "De: Tu hija Marina",
         "text": "Mamá, gracias por ser siempre mi refugio seguro, mi confidente en los momentos clave y mi mejor amiga. Admiro muchísimo tu fuerza interna, tu generosidad sin límites y esa capacidad tan hermosa que tienes de sanar cualquier preocupación mía con solo una mirada o uno de tus abrazos. Ojalá el día de mañana pueda ser una mujer tan increíble como tú."
     },
     {
